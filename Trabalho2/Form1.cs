@@ -212,6 +212,7 @@ namespace Trabalho2
             lb_derrotas.Text = vitoriasO.ToString();
 
             novoJogo();
+
             if (vez == 2)
                 jogadaPC();
         }
